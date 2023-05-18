@@ -12,3 +12,4 @@ app dev
   "age": 16
 }
 ```
+** my hero academia is a Japanese superhero manga series written and illustrated by Kōhei Horikoshi. It has been serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump since July 2014, with its chapters additionally collected into 37 tankōbon volumes as of February 2023.**
